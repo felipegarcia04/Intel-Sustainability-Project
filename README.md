@@ -1,4 +1,4 @@
-# Intel-Sustainability-Project
+# Intel-Sustainability-Dashboard
 ## Project Overview
 Developed an interactive Tableau dashboard that analyzed data from Intel's semiconductor facilities to identify trends in energy consumption and environmental performance metrics. 
 ## Business Objective
