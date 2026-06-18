@@ -2,7 +2,7 @@
 ## Project Overview
 Developed an interactive Tableau dashboard that analyzed data from Intel's semiconductor facilities to identify trends in energy consumption and environmental performance metrics. 
 ## Business Objective
-Identify trends in energy consumption and environmental performance to identify optimal locations for future data center development.
+Identify trends in energy consumption and environmental performance to pinpoint optimal locations for future data center development.
 ## Tools Used
 - Tableau
 - Data Analysis
